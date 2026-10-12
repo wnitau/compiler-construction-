@@ -1,0 +1,7 @@
+{
+let name="wania";
+let int y;
+y=3*2+5;
+if(y<18)print"not allowed";
+else print"allowed;
+}
